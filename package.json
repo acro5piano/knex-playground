@@ -20,7 +20,7 @@
     "fs-browser-stub": "^1.0.1",
     "knex": "^0.95.5",
     "monaco-editor": "^0.23.0",
-    "mssql": "^6.3.1",
+    "mssql": "^7.1.1",
     "rxjs": "~6.6.6",
     "sql-formatter": "^4.0.2",
     "tslib": "^2.1.0",
